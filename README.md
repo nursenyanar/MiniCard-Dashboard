@@ -2,7 +2,7 @@
 Kullanıcı yetkinliğine göre cihaz ekleme, cihaz yönetimi, cihaz ve kullanıcı detay bilgilerine erişim gibi özelliklerin bulunduğu bir frontend çalışmasıdır.
 # Image
 
-![Ürünler](/images/urun.png)
+![Ürünler](/dist/img/device.png)
 ![Ana Sayfa](/images/anasayfa.png)
 
 
