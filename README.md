@@ -13,7 +13,7 @@ Kullanıcı yetkinliğine göre cihaz ekleme, cihaz yönetimi, cihaz ve kullanı
 
 Öncelikle projeyi klonlayın.
 ```
-git clone https://github.com/nursenyanar/bi-odeme
+git clone https://github.com/nursenyanar/MiniCard-Dashboard
 ```
 
 # Usage
@@ -23,6 +23,7 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
+Live Server eklentisi ile çalıştırabilirsiniz.
 
 
 
